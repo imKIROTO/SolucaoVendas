@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SolucaoVendas.Pages.PgResumos"
+             Title="PgResumos">
+    <VerticalStackLayout>
+        <Label 
+            Text="Resumos" 
+            FontSize="Header" 
+            HorizontalTextAlignment="Center">
+        </Label>
+        <Button
+            x:Name="BtnVoltar"
+            Text="Voltar"
+            Padding="30"
+            Margin="10"
+            HorizontalOptions="Center"
+            Clicked="BtnVoltar_Clicked">
+        </Button>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SolucaoVendas.Pages.PgVendas"
+             Title="PgVendas">
+    <ScrollView>
+        <VerticalStackLayout Margin="20">
+            <!-- cabeçalho -->
+            <Label 
+                Text="Vendas" 
+                FontSize="Header" 
+                HorizontalTextAlignment="Center"
+                Margin="5">
+            </Label>
+
+            <!-- Cliente -->
+            <Label 
+                Text="Cliente"
+                Margin="5"
+                FontAttributes="Bold"
+                FontSize="18">
+            </Label>
+            <Picker
+                Title="Selecione o Cliente"
+                Margin="10"
+                ItemsSource="{Binding Cliente}"
+                ItemDisplayBinding="{Binding Nome}"
+                SelectedItem="{Binding ClienteSelecionado}">
+            </Picker>
+
+            <!-- Data -->
+            <Label
+                Text="Data"
+                Margin="5"
+                FontAttributes="Bold"
+                FontSize="18">
+            </Label>
+            <DatePicker
+                x:Name="DpData"
+                Margin="10">
+            </DatePicker>
+
+            <!-- Produto -->
+            <Label
+                Text="Produto"
+                Margin="5"
+                FontAttributes="Bold"
+                FontSize="18">
+            </Label>
+            <Picker Title="Selecione o produto"
+                    Margin="10"
+                    ItemsSource="{Binding Produtos}"
+                    ItemDisplayBinding="{Binding Nome}"
+                    SelectedItem="{Binding ProdutoSelecionado}" />
+
+
+            <!-- Valor -->
+            <Label
+                Text="Valor"
+                Margin="5"
+                FontAttributes="Bold"
+                FontSize="18">
+            </Label>
+            <Entry
+                x:Name="TxtValor"
+                Keyboard="Numeric"
+                Placeholder="Ex: 1.500,00"
+                Text="{Binding ValorVenda}"
+                Margin="10">
+            </Entry>
+            
+           <!--Parcelas-->
+            <Label
+                Text="Parcelas"
+                Margin="5"
+                FontAttributes="Bold"
+                FontSize="18">
+            </Label>
+            <Picker
+                x:Name="PkParcelas"
+                Margin="10"
+                ItemsSource="{Binding QuantParcela}"
+                ItemDisplayBinding="{Binding QuantParcela}"
+                SelectedItem="{Binding ParcelaSelecionado}">
+            </Picker>
+            
+            <!-- Porcentual -->
+            <Label
+                Text="Comissão (%)"
+                Margin="5"
+                FontAttributes="Bold"
+                FontSize="18">
+            </Label>
+            <Entry
+                x:Name="TxtComissão"
+                Keyboard="Numeric"
+                Placeholder="Ex: 3"
+                Text="{Binding Percentual}"
+                Margin="10">
+            </Entry>]
+            <Label
+                Text="{Binding ValorCalculado, StringFormat='Valor a receber: R$ {0:F2}'}"
+                FontAttributes="Bold"
+                FontSize="18">
+            </Label>
+
+            <HorizontalStackLayout  Padding="10" HorizontalOptions="Center">
+
+                <!-- Salvar -->
+                <Button
+                x:Name="BtnSave"
+                Text="Salvar Venda"
+                Padding="30"
+                Margin="10"
+                Command="{Binding SalvarCommand}"
+                Clicked="BtnSave_Clicked">
+                </Button>
+
+                    <!-- Voltar -->
+            <Button
+                x:Name="BtnVoltar"
+                Text="Voltar"
+                Padding="30"
+                Margin="10"
+                HorizontalOptions="Center"
+                Clicked="BtnVoltar_Clicked">
+            </Button>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
