@@ -2,3 +2,6 @@ git status ------- verificar o status da pasta
 git commit -a -m "descrição do commit" ------- pra comitar a pasta direitinho
 git push origin master ------ pra enviar o commit pro github
 git clone copia  e cola -------- pra clonar a pasta em outro pc
+
+
+testando novamente
