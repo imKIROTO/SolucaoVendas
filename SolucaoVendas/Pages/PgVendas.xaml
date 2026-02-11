@@ -53,7 +53,8 @@
                     ItemDisplayBinding="{Binding Nome}"
                     SelectedItem="{Binding ProdutoSelecionado}" />
 
-
+            <HorizontalStackLayout
+                HorizontalOptions="Center">
             <!-- Valor -->
             <Label
                 Text="Valor"
@@ -66,7 +67,8 @@
                 Keyboard="Numeric"
                 Placeholder="Ex: 1.500,00"
                 Text="{Binding ValorVenda}"
-                Margin="10">
+                Margin="10"
+                WidthRequest="650">
             </Entry>
             
            <!--Parcelas-->
@@ -79,11 +81,13 @@
             <Picker
                 x:Name="PkParcelas"
                 Margin="10"
+                WidthRequest="663"
                 ItemsSource="{Binding QuantParcela}"
-                ItemDisplayBinding="{Binding QuantParcela}"
                 SelectedItem="{Binding ParcelaSelecionado}">
             </Picker>
-            
+                
+            </HorizontalStackLayout>
+
             <!-- Porcentual -->
             <Label
                 Text="Comissão (%)"

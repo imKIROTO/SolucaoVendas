@@ -34,10 +34,7 @@ namespace SolucaoVendas.ViewModels
             };
 
             //lista de parcelas ---------------------------------------------------------------------------
-            QuantParcela = new ObservableCollection<int>
-            {
-                new Parcela {QuantParcela = 1}
-            };
+            QuantParcela = new ObservableCollection<int> { 1, 3, 6, 9, 12 };
 
             SalvarCommand = new Command(Salvar);
 
@@ -72,7 +69,7 @@ namespace SolucaoVendas.ViewModels
                 return;
             }
 
-            if(ParcelaSelecionado == null)
+            if(ParcelaSelecionado == 0)
             {
                 await Application.Current.MainPage.DisplayAlert(
                     "Atenção",

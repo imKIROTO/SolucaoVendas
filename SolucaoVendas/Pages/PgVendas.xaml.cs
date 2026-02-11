@@ -1,4 +1,3 @@
-
 using Microsoft.Maui.Platform;
 using SolucaoVendas.ViewModels;
 using System.Collections.ObjectModel;

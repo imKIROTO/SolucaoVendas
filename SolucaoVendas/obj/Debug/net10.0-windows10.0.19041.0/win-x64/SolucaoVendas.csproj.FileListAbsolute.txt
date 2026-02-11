@@ -516,3 +516,4 @@ C:\Users\Gabi\Documents\projeto 100 porcento sério, papo 10\SolucaoVendas\Soluc
 C:\Users\Gabi\Documents\projeto 100 porcento sério, papo 10\SolucaoVendas\SolucaoVendas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 C:\Users\Gabi\Documents\projeto 100 porcento sério, papo 10\SolucaoVendas\SolucaoVendas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 C:\Users\Gabi\Documents\projeto 100 porcento sério, papo 10\SolucaoVendas\SolucaoVendas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Gabi\Documents\projeto 100 porcento sério, papo 10\SolucaoVendas\SolucaoVendas\obj\Debug\net10.0-windows10.0.19041.0\win-x64\SolucaoVendas.sourcelink.json

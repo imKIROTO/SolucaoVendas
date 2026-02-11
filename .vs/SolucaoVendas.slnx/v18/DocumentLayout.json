@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|c:\\users\\gabi\\documents\\projeto 100 porcento s\u00E9rio, papo 10\\solucaovendas\\solucaovendas\\models\\vendaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|solutionrelative:solucaovendas\\models\\vendaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|c:\\users\\gabi\\documents\\projeto 100 porcento s\u00E9rio, papo 10\\solucaovendas\\solucaovendas\\pages\\pgvendas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|solutionrelative:solucaovendas\\pages\\pgvendas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|c:\\users\\gabi\\documents\\projeto 100 porcento s\u00E9rio, papo 10\\solucaovendas\\solucaovendas\\models\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|solutionrelative:solucaovendas\\models\\parcela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|c:\\users\\gabi\\documents\\projeto 100 porcento s\u00E9rio, papo 10\\solucaovendas\\solucaovendas\\pages\\pgvendas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|solutionrelative:solucaovendas\\pages\\pgvendas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|c:\\users\\gabi\\documents\\projeto 100 porcento s\u00E9rio, papo 10\\solucaovendas\\solucaovendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|solutionrelative:solucaovendas\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|c:\\users\\gabi\\documents\\projeto 100 porcento s\u00E9rio, papo 10\\solucaovendas\\solucaovendas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|solutionrelative:solucaovendas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|c:\\users\\gabi\\documents\\projeto 100 porcento s\u00E9rio, papo 10\\solucaovendas\\solucaovendas\\models\\vendaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4548859-0AC7-5875-370A-1782FBC4B790}|SolucaoVendas\\SolucaoVendas.csproj|solutionrelative:solucaovendas\\models\\vendaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SolucaoVendas\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\MainPage.xaml",
+              "RelativeToolTip": "SolucaoVendas\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T16:35:27.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PgVendas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Pages\\PgVendas.xaml.cs",
+              "RelativeDocumentMoniker": "SolucaoVendas\\Pages\\PgVendas.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Pages\\PgVendas.xaml.cs",
+              "RelativeToolTip": "SolucaoVendas\\Pages\\PgVendas.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:29:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PgVendas.xaml",
               "DocumentMoniker": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Pages\\PgVendas.xaml",
               "RelativeDocumentMoniker": "SolucaoVendas\\Pages\\PgVendas.xaml",
               "ToolTip": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Pages\\PgVendas.xaml",
               "RelativeToolTip": "SolucaoVendas\\Pages\\PgVendas.xaml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-06T20:00:22.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "VendaViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Models\\VendaViewModel.cs",
               "RelativeDocumentMoniker": "SolucaoVendas\\Models\\VendaViewModel.cs",
               "ToolTip": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Models\\VendaViewModel.cs",
               "RelativeToolTip": "SolucaoVendas\\Models\\VendaViewModel.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA7wCYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T19:36:46.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Venda.cs",
-              "DocumentMoniker": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Models\\Venda.cs",
-              "RelativeDocumentMoniker": "SolucaoVendas\\Models\\Venda.cs",
-              "ToolTip": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Models\\Venda.cs",
-              "RelativeToolTip": "SolucaoVendas\\Models\\Venda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T19:36:05.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Parcela.cs",
-              "DocumentMoniker": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Models\\Parcela.cs",
-              "RelativeDocumentMoniker": "SolucaoVendas\\Models\\Parcela.cs",
-              "ToolTip": "C:\\Users\\Gabi\\Documents\\projeto 100 porcento s\u00E9rio, papo 10\\SolucaoVendas\\SolucaoVendas\\Models\\Parcela.cs",
-              "RelativeToolTip": "SolucaoVendas\\Models\\Parcela.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T19:35:07.394Z",
               "EditorCaption": ""
             }
           ]
